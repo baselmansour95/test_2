@@ -1,5 +1,7 @@
 github.com/baselmansour95/test_1 v0.0.0-20240115053212-50fa66cccbaf h1:3NZ2MA1lIF/+5DasaGgddrMfqWdcd3HLegrtfaLEApQ=
 github.com/baselmansour95/test_1 v0.0.0-20240115053212-50fa66cccbaf/go.mod h1:thEziCYilzyXhPEi/lsj6/T2yjnvU+dP8HuqRRNJcoM=
+github.com/baselmansour95/test_1 v0.0.0-20240115061759-229016303728 h1:ZsOPk6rX1/WQpY/bJ40zKP8zuwFD4XPXZpJne9UtXBg=
+github.com/baselmansour95/test_1 v0.0.0-20240115061759-229016303728/go.mod h1:thEziCYilzyXhPEi/lsj6/T2yjnvU+dP8HuqRRNJcoM=
 github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
 github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/pborman/uuid v1.2.1 h1:+ZZIw58t/ozdjRaXh/3awHfmWRbzYxJoAdNJxe/3pvw=

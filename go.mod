@@ -9,4 +9,4 @@ require (
 	github.com/pborman/uuid v1.2.1 // indirect
 )
 
-replace test_1 => github.com/baselmansour95/test_1 v0.0.0-20240115053212-50fa66cccbaf
+replace test_1 => github.com/baselmansour95/test_1 v0.0.0-20240115061759-229016303728
